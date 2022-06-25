@@ -1,0 +1,213 @@
+{
+    "status": "success",
+    "message": "Retrieved all Employees",
+    "data": [
+        {
+            "id": 1,
+            "name": "Abhishek",
+            "salary": 145000,
+            "currency": "USD",
+            "department": "Engineering",
+            "sub_department": "Platform",
+            "on_contract": "false"
+        },
+        {
+            "id": 2,
+            "name": "Anurag",
+            "salary": 90000,
+            "currency": "USD",
+            "department": "Banking",
+            "sub_department": "Loan",
+            "on_contract": "true"
+        },
+        {
+            "id": 3,
+            "name": "Himani",
+            "salary": 240000,
+            "currency": "USD",
+            "department": "Engineering",
+            "sub_department": "Platform",
+            "on_contract": "false"
+        },
+        {
+            "id": 4,
+            "name": "Yatendra",
+            "salary": 30,
+            "currency": "USD",
+            "department": "Operations",
+            "sub_department": "CustomerOnboarding",
+            "on_contract": "false"
+        },
+        {
+            "id": 5,
+            "name": "Ragini",
+            "salary": 30,
+            "currency": "USD",
+            "department": "Engineering",
+            "sub_department": "Platform",
+            "on_contract": "false"
+        },
+        {
+            "id": 6,
+            "name": "Nikhil",
+            "salary": 110000,
+            "currency": "USD",
+            "department": "Engineering",
+            "sub_department": "Platform",
+            "on_contract": "true"
+        },
+        {
+            "id": 7,
+            "name": "Guljit",
+            "salary": 30,
+            "currency": "USD",
+            "department": "Administration",
+            "sub_department": "Agriculture",
+            "on_contract": "false"
+        },
+        {
+            "id": 8,
+            "name": "Himanshu",
+            "salary": 70000,
+            "currency": "EUR",
+            "department": "Operations",
+            "sub_department": "CustomerOnboarding",
+            "on_contract": "false"
+        },
+        {
+            "id": 9,
+            "name": "Anupam",
+            "salary": 200000000,
+            "currency": "INR",
+            "department": "Engineering",
+            "sub_department": "Platform",
+            "on_contract": "false"
+        },
+        {
+            "id": 10,
+            "name": "kiran",
+            "salary": 10000,
+            "currency": "INR",
+            "department": "Engineering",
+            "sub_department": "Platform",
+            "on_contract": "false"
+        },
+        {
+            "id": 11,
+            "name": "kiran",
+            "salary": 10000,
+            "currency": "INR",
+            "department": "Engineering",
+            "sub_department": "Platform",
+            "on_contract": "false"
+        },
+        {
+            "id": 12,
+            "name": "kiran",
+            "salary": 10000,
+            "currency": "INR",
+            "department": "Engineering",
+            "sub_department": "Platform",
+            "on_contract": "false"
+        },
+        {
+            "id": 13,
+            "name": "kiran",
+            "salary": 10000,
+            "currency": "INR",
+            "department": "Engineering",
+            "sub_department": "Platform",
+            "on_contract": "false"
+        },
+        {
+            "id": 14,
+            "name": "kiran",
+            "salary": 10000,
+            "currency": "INR",
+            "department": "Engineering",
+            "sub_department": "Platform",
+            "on_contract": "false"
+        },
+        {
+            "id": 16,
+            "name": "kiran",
+            "salary": 10000,
+            "currency": "INR",
+            "department": "Engineering",
+            "sub_department": "Platform",
+            "on_contract": "false"
+        },
+        {
+            "id": 17,
+            "name": "kiran",
+            "salary": 10000,
+            "currency": "INR",
+            "department": "Engineering",
+            "sub_department": "Platform",
+            "on_contract": "false"
+        },
+        {
+            "id": 18,
+            "name": "asdfasd",
+            "salary": 20000,
+            "currency": "INR",
+            "department": "Engineering",
+            "sub_department": "Platform",
+            "on_contract": "false"
+        },
+        {
+            "id": 19,
+            "name": "testuser",
+            "salary": 300,
+            "currency": "USD",
+            "department": "Administration",
+            "sub_department": "Agriculture",
+            "on_contract": "false"
+        },
+        {
+            "id": 20,
+            "name": "testuser",
+            "salary": 300,
+            "currency": "USD",
+            "department": "Administration",
+            "sub_department": "Agriculture",
+            "on_contract": "false"
+        },
+        {
+            "id": 21,
+            "name": "testuser",
+            "salary": 300,
+            "currency": "USD",
+            "department": "Administration",
+            "sub_department": "Agriculture",
+            "on_contract": "false"
+        },
+        {
+            "id": 22,
+            "name": "testuser",
+            "salary": 300,
+            "currency": "USD",
+            "department": "Administration",
+            "sub_department": "Agriculture",
+            "on_contract": "false"
+        },
+        {
+            "id": 23,
+            "name": "testuser",
+            "salary": 300,
+            "currency": "USD",
+            "department": "Administration",
+            "sub_department": "Agriculture",
+            "on_contract": "false"
+        },
+        {
+            "id": 24,
+            "name": "testuser",
+            "salary": 300,
+            "currency": "USD",
+            "department": "Administration",
+            "sub_department": "Agriculture",
+            "on_contract": "false"
+        }
+    ]
+}
